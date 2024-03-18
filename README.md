@@ -1,4 +1,3 @@
 # FirstRepository
 
-Primer edit del archivo Readme
-Segundo edit del archivo
+Borré lo anterior
