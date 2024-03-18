@@ -1,3 +1,3 @@
 # FirstRepository
 
-Programa que ve si una palabra es un palindromo
+ELiminar el archivo "FirstRepository" que se habia clonado en la segunda rama.
